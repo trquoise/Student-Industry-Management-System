@@ -1,0 +1,28 @@
+.containerStyle {
+   display: flex;
+   justify-content: center;
+ }
+ 
+ .boxStyle {
+   display: flex;
+   flex-direction: column;
+   width: 400px;
+ }
+ 
+ .recommendContainer { 
+  margin-left: 40px;
+  width: 16%;
+}
+
+ .boxStyle .textfieldStyle {
+   margin-top: 10px;
+   margin-bottom: 10px;
+ }
+ 
+ .boxStyle .datePickerBox {
+   display: flex;
+   justify-content: space-between;
+   margin-top: 10px;
+   margin-bottom: 10px;
+ }
+ 

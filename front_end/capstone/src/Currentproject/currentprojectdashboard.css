@@ -1,0 +1,53 @@
+.currentprojecttitle h3 {
+    width: 20%;
+    background-color: #F5F5DC;
+    display:inline-block;
+    padding:1%;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.currentprojecttitle {
+    margin-left: 10%;
+
+}
+.projectdashboard{
+    margin-top: 1%;
+    margin-left: 10%;
+    width: 80%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+    background-color:#FFDB58 ;
+}
+.currentprojectdetail{
+    width: 90%;
+    display: inline-grid;
+    grid-template-columns: repeat(6, 15%);
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 20px;
+    background-color: gray;
+    font-size: 30px;
+}
+
+.index{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.projectname{
+    display: inline-block;
+}
+.projectstatus{
+    display: inline-block;
+}
+.milestone{
+    display: inline-block;
+}
+.feedback{
+    display: inline-block;
+}
+.forum{
+    display: inline-block;
+}

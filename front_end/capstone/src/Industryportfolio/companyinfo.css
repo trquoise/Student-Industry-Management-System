@@ -1,0 +1,20 @@
+.education{
+    flex-direction: column;
+    width:80%;
+
+}
+.educationinfo{
+    margin-top: 2%;
+    width: 90%;
+    background-color: #FFDB58;
+    padding-bottom: 20px;
+    padding: 5%;
+}
+.educationtitle h3{
+    width: 30%;
+    background-color: #F5F5DC;
+    display:inline-block;
+    padding:1%;
+    text-align: center;
+    border-radius: 10px;
+}

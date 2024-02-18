@@ -1,0 +1,90 @@
+.top-container {
+    width: 100%;
+    height: 400px;
+}
+
+.top-container .menu {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+}
+
+.top-container .background-picture {
+    width: 100%;
+    height: 300px;
+    /* background-image: url(add.jpg); */
+    background-size: cover;
+    background-position: center;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.menu .unsw-logo {
+    padding: 30px 2px 30px 12px;
+}
+
+.menu img {
+    background-color: gold;
+}
+
+.menu .website-name {
+    width: auto;
+    height: auto;
+    color: white;
+
+}
+
+.menu .home {
+    width: 100px;
+    height: 90px;
+}
+
+.website-name h2 {
+    padding: 15px 0;
+    font-size: 1.3em;
+    text-align: center;
+    line-height: 60px;
+}
+
+.btn-home {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
+    
+}
+
+.btn-home button {
+    width: 100px;
+    height: 40px;
+    line-height: 30px;
+}
+
+.bottom-container {
+    height: 600px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    background-color: gold;
+}
+
+.bottom-container div {
+    margin: 20px 0;
+
+}
+
+.bottom-container div input[type="password"],
+.bottom-container div input[type="email"],
+.bottom-container div label {
+    display: block;
+    width: 46%;
+    margin-bottom: 10px;
+}
+
+.container label {
+    display: block;
+    text-align: left;
+}

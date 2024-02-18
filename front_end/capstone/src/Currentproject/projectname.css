@@ -1,0 +1,88 @@
+.back-btn {
+    text-align: right;
+    /* padding-right: 20px; */
+    width: 88%;
+    padding-top: 1%;
+}
+.back{
+    font-size: 20px;
+}
+.project {
+    flex-direction: column;
+}
+
+.image{
+    margin-top: 2%;
+    padding-bottom: 1%;
+    padding-top: 2%;
+    text-align: center;
+    font-size: 30px;
+
+}
+/* .content{
+    width: 80%;
+    height: 500px;
+} */
+.projectname{
+    margin-top: 1%;
+    background-color:#FFC305 ;
+    width: 20%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 2%;
+
+}
+.detailedinfo{
+    background-color: #FFC305;
+    width: 80%;
+    display: inline-grid;
+    grid-template-columns: repeat(2, 50%);
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+}
+.ownername{
+    background-color: antiquewhite;
+    width: 50%;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+
+}
+.date{
+    background-color: antiquewhite;
+    width: 50%;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+}
+.introduction{
+    margin-top: 2%;
+    background-color:#FFC305 ;
+    width: 80%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align: center;
+    font-size: 30px;
+
+}
+.requirements{
+    margin-top: 2%;
+    background-color:#FFC305 ;
+    width: 80%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 2%;
+
+}
+
+
+

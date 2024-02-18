@@ -1,0 +1,32 @@
+.company{
+    width: 80%;
+    flex-direction:column;
+
+}
+.companyinfo{
+    margin-top: 2%;
+    width: 90%;
+    background-color: #FFDB58;
+    padding-bottom: 20px;
+    padding: 5%;
+}
+.infotitle h3 {
+    width: 30%;
+    background-color: #F5F5DC;
+    display:inline-block;
+    padding:1%;
+    text-align: center;
+    border-radius: 10px;
+}
+.inputarea{
+    width: 80%;
+}
+.companysummary{
+    display: block;
+    width: 50%;
+    overflow: hidden;
+    resize: both;
+    min-height: 100px;
+    line-height: 40px;
+    background-color: beige;
+}

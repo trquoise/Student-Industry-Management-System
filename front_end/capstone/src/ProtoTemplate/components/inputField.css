@@ -1,0 +1,17 @@
+.inputField {
+    padding-top: 20px;
+    align-items: start;
+}
+
+.inputField .left {
+    width: 350px;
+}
+
+.inputField .right {
+    width: 350px;
+}
+
+.inputField .Introduction {
+    width: 80%;
+    height: 50px;
+}

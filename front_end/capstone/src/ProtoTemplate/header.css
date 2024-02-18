@@ -1,0 +1,41 @@
+.topnavbar {
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+    background-color: rgba(31, 28, 28, 0.798);
+}
+
+.topnavbar .left {
+    width: 50%;
+}
+
+.topnavbar p{
+    color: white;
+}
+
+.topnavbar .right {
+    width: 50%;
+    flex-direction: row-reverse;
+    padding-right: 20px;
+}
+
+.topnavbar .right a {
+    padding: 50px;
+    font-size: 17pt;
+    color: white;
+}
+
+.topnav {
+    /* margin: auto; */
+    justify-content: right;
+    align-items: center;
+    padding-right: 20px;
+}
+
+.schoollogo img{
+    background-color: yellow;
+}
+.container{
+    width: 100%;
+}
+

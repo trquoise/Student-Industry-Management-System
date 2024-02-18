@@ -1,0 +1,17 @@
+.textField {
+    padding-top: 20px;
+    align-items: start;
+}
+
+.textField .left {
+    width: 350px;
+}
+
+.textField .right {
+    width: 350px;
+}
+
+.textField .Introduction {
+    width: 80%;
+    height: 50px;
+}

@@ -1,0 +1,25 @@
+.resume{
+    width: 80%;
+    flex-direction:column;
+
+}
+.resumeinfo{
+    margin-top: 2%;
+    width: 90%;
+    background-color: #FFDB58;
+    padding-bottom: 20px;
+    padding: 5%;
+}
+.pdf{
+    width: 20%;
+    display: inline-block;
+    margin-left: 40%;
+    background-color: grey;
+}
+.infotitle h1 {
+    width: 200px;
+    background-color: #F5F5DC;
+    display:inline-block;
+    padding:10px;
+    margin-left: 10px
+}

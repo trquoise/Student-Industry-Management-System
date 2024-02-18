@@ -1,0 +1,27 @@
+.project{
+    width: 80%;
+    flex-direction:column;
+
+}
+.projectinfo{
+    margin-top: 2%;
+    width: 90%;
+    background-color: #FFDB58;
+    padding-bottom: 20px;
+    padding: 5%;
+}
+.infotitle h1 {
+    width: 200px;
+    background-color: #F5F5DC;
+    display:inline-block;
+    padding:10px;
+    margin-left: 10px
+}
+
+.infotitle h2 {
+    width: 200px;
+    background-color: #F5F5DC;
+    display:inline-block;
+    padding:10px;
+    margin-left: 10px
+}

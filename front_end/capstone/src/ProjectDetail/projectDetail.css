@@ -1,0 +1,42 @@
+.project-detail {
+    flex-direction: column;
+}
+
+.project-detail-img img {
+    width: 70vw;
+    height: 400px;
+    margin-top: 20px;
+}
+
+.project-detail h1 {
+    font-size: 2.5em;
+}
+
+.project-detail-grid {
+    text-align: center;
+    width: 80%;
+}
+
+.project-detail-grid .left {
+    width: 50%;
+}
+
+.project-detail-grid .right {
+    width: 50%;
+}
+
+.project-detail-introduction, .project-detail-requirements {
+    width: 60%;
+    padding: 30px;
+}
+
+.project-detail-introduction h2, .project-detail-requirements h2{
+    text-align: left;
+}
+
+.project-detail-introduction p, .project-detail-requirements p
+{
+    text-align: left;
+    padding-top: 30px;
+}
+

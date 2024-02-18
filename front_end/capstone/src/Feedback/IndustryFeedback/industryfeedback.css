@@ -1,0 +1,38 @@
+.feedbacktitle h3{
+    width: 30%;
+    background-color: #F5F5DC;
+    display:inline-block;
+    padding:1%;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.dashboard{
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.feedbackdashboard{
+    background-color: #FFDB58;
+    display: inline-grid;
+    width: 100%;
+    grid-template-columns: repeat(5, 20%);
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+.item{
+    background-color: lightgray;
+    width: 80%;
+}
+
+.back-btn {
+    float: right;
+    margin-right: 10%;
+}

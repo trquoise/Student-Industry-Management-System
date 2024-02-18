@@ -1,0 +1,14 @@
+.body{
+    width: 100%;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}

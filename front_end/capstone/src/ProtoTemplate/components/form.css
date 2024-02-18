@@ -1,0 +1,42 @@
+.form {
+    /* width: 50%; */
+    flex-direction:row;
+    padding: 20px;
+    background-color: azure;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.form form {
+    /* width: 80%; */
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.form-row {
+    /* display: flex; */
+    text-align: start;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+    /* flex-direction: column; */
+}
+.form .right{
+    /* width: 25%; */
+    text-align: end;
+}
+.form .left{
+    /* width: 25%; */
+}
+
+.submit-btn {
+    margin: auto;
+    text-align: center;
+}
+
+
